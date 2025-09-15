@@ -1,54 +1,95 @@
-# 👋 Hi, I’m Aadarsh Shrivastav  
+# 👋 Hi there! I'm Aadarsh Shrivastav  
 
-🎓 **2nd Year B.Tech Student** | 💻 **Full-Stack Developer** | 🚀 **Aspiring AI/ML Engineer**  
+<div align="center">
 
----
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=🚀+Full-Stack+Developer;🎓+2nd+Year+B.Tech+Student;🤖+AI%2FML+Enthusiast;💡+Problem+Solver+%26+Innovator)
 
-## 🌟 About Me  
-- 🌱 Exploring **Data Structures & Algorithms** to strengthen problem-solving.  
-- 💻 Experienced in **MERN Stack Development** with **6+ projects**, including:  
-  - 📝 Notes App  
-  - 🤖 AI Interview Prep App  
-  - 💰 Expense Tracker  
-  - 🎵 Streamify (music app)  
-  - 📄 Resume Builder  
-- 🐍 Building GUIs with **Python (Tkinter)**.  
-- 🔗 Diving into **Django** for advanced backend development.  
-- 🎯 Future Goals:  
-  - Master **AI/ML** and **Data Science**.  
-  - Excel in **DSA** for competitive programming & interviews.  
+</div>
 
 ---
 
-## 🚀 Tech Stack  
+## 🚀 About Me  
 
-### 💻 Languages  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+<img align="right" alt="Coding GIF" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### 🌐 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-
-### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-
-### 🐍 Python Tools  
-![Tkinter](https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=black)  
-
-### 🛠️ Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+- 🔭 Currently focusing on **Data Structures & Algorithms** to sharpen problem-solving.  
+- 💻 Skilled in **MERN Stack** — developed **6+ projects** across real-world use cases.  
+- 🤖 Exploring **Artificial Intelligence & Machine Learning** with a keen interest in **Data Science**.  
+- 🎨 Enjoy building **intuitive GUIs in Python (Tkinter)** and experimenting with interactive apps.  
+- 💡 Strong believer in **continuous learning** and adapting to new technologies.  
+- 🎯 Ambition: **Excel in DSA, crack top-tier tech interviews, and contribute to impactful projects**.  
 
 ---
 
-✨ *Always curious to learn, build, and grow as a developer!*  
+## 🛠️ Tech Stack  
+
+### 🔤 Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+</p>  
+
+### 🎨 Frontend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+</p>  
+
+### ⚡ Backend & Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,mysql" />
+</p>  
+
+### 🧰 Tools & Platforms  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
+</p>  
+
+---
+
+## 🎯 Featured Projects  
+
+<div align="center">
+
+| 📝 **Notes App** | 🤖 **AI Interview Prep** | 💰 **Expense Tracker** |
+|:---:|:---:|:---:|
+| Smart & minimal note-taking app | Practice interviews with AI support | Manage personal finance with ease |
+| ![Notes](https://img.shields.io/badge/Notes_App-4ECDC4?style=for-the-badge&logo=notion&logoColor=white) | ![AI](https://img.shields.io/badge/AI_App-00C9A7?style=for-the-badge&logo=openai&logoColor=white) | ![Finance](https://img.shields.io/badge/Finance_App-FF6F61?style=for-the-badge&logo=cashapp&logoColor=white) |
+
+| 📄 **Resume Builder** | 🎮 **Python GUIs** |
+|:---:|:---:|
+| Create professional resumes effortlessly | Fun and interactive desktop applications |
+| ![Resume](https://img.shields.io/badge/Resume_Builder-FFD43B?style=for-the-badge&logo=adobeacrobatreader&logoColor=black) | ![GUI](https://img.shields.io/badge/Python_GUI-306998?style=for-the-badge&logo=python&logoColor=white) |
+
+</div>
+
+---
+
+## 📊 GitHub Highlights  
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aadarshshrivastav&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadarshshrivastav&layout=compact&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadarshshrivastav&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 Achievements & Trophies  
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aadarshshrivastav&theme=radical&no-frame=false&margin-w=10&row=1" />
+</div>
+
+---
+
+## 🎯 Roadmap  
+
+```mermaid
+graph LR
+    A[🔥 Current Skills] --> B[🚀 AI/ML Mastery]
+    A --> C[💪 DSA Excellence]
+    B --> D[🎯 Dream Tech Role]
+    C --> D
+    D --> E[🌟 Tech Leadership]
