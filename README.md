@@ -29,7 +29,7 @@
 
 ### Backend & Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>  
 
 ### Tools & Platforms  
