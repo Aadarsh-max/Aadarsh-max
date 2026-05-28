@@ -13,29 +13,6 @@
 - Actively practicing **Data Structures & Algorithms**  
 - Goal: Build impactful, scalable, and efficient software systems  
 
----
-
-## 🛠️ Tech Stack  
-
-### Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
-</p>  
-
-### Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>  
-
-### Backend & Databases  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>  
-
-### Tools & Platforms  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel" />
-</p>  
 
 ---
 ⭐ *"Always building, always learning."*
